@@ -24,4 +24,4 @@ A modern, CSK-themed dynamic player gallery showcasing the **2025 Chennai Super 
 
 ## 📸 Preview
 
-![CSK Gallery Preview](images/website_look.png)  
+![CSK Player Gallery Preview](images/csk/website_look.png) 
