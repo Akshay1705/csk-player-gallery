@@ -1,20 +1,27 @@
 # Chennai Super Kings 2025 Player Gallery 💛
 
-A modern, CSK-themed photo gallery showcasing the 2025 Chennai Super Kings squad. Players are categorized by roles like Captain, Batter, Bowler, All-Rounder, and Wicket-Keeper. Built using HTML, CSS, and JavaScript — no frameworks required.
+A modern, CSK-themed dynamic player gallery showcasing the **2025 Chennai Super Kings Squad**, categorized by role (Captain, Batter, Bowler, All-Rounder, Wicket-Keeper). Built using **HTML, CSS, and JavaScript**, designed for fans to experience the CSK vibe online.
 
 ---
 
-## 🚀 Features
+## 🔗 Live Project
 
-- 🏏 Dynamic player display using JavaScript
-- 🏆 Filter players by role (Captain, Batter, Bowler, All-Rounder, Wicket-Keeper)
+👉 [Visit Live Project](https://cskipl.netlify.app/)
+
+---
+
+## 🎉 Features
+
+- 🏏 Dynamic player rendering from JS data file
+- 🏆 Role-based player filtering
 - 💛 CSK-themed modern responsive UI
-- 🎨 Animated hover effects and transitions
-- 📱 Fully responsive for all screen sizes
-- 🏆 5-Time IPL Champions trophy showcase
+- 🎨 Smooth hover effects and transitions
+- 📱 Mobile-friendly responsive design
+- 🏆 Trophy showcase (5-time champions)
+- 🌟 Persistent active filter highlighting
 
 ---
 
-## 📸 Live Demo
+## 📸 Preview
 
-> [🔗 View Live Project]((https://cskipl.netlify.app/))
+![CSK Gallery Preview](images/website_look.png)  
