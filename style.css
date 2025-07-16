@@ -9,8 +9,8 @@ body {
 
 /* ======= Hero Section ======= */
 .hero {
-    background: url('images/csk_bg.jpg') center/cover no-repeat;
-    padding: 40px 20px;
+    /* background: url('images/csk/CSK_logo.avif') center/cover no-repeat; */
+    /* padding: 40px 20px; */
     color: #fff;
     text-align: center;
     position: relative;
@@ -19,7 +19,7 @@ body {
 .hero h1 {
     font-size: 2.8rem;
     font-weight: 900;
-    color: #f0dc93;
+    color: #eaea82;
     /* CSK Yellow */
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -89,6 +89,12 @@ body {
 }
 
 .filter-buttons button:hover {
+    background: #f5c518;
+    color: #000;
+    transform: scale(1.05);
+}
+
+.filter-buttons button.active {
     background: #f5c518;
     color: #000;
     transform: scale(1.05);

@@ -1,4 +1,5 @@
 const playerGallery = document.getElementById("playerGallery");
+const filterButtons = document.querySelectorAll(".filter-buttons button");
 
 function createPlayerCard(player) {
   const item = document.createElement("div");
@@ -19,6 +20,17 @@ function createPlayerCard(player) {
 }
 
 function showCategory(category = "all") {
+  // Highlight active button
+  filterButtons.forEach((button) => button.classList.remove("active"));
+
+  const activeButton = Array.from(filterButtons).find(
+    (button) => button.dataset.category === category
+  );
+  if (activeButton) {
+    activeButton.classList.add("active");
+  }
+
+  // Render players
   playerGallery.innerHTML = "";
 
   const filteredPlayers =
@@ -38,5 +50,6 @@ function showCategory(category = "all") {
   });
 }
 
-// Load all players when page loads
+
+// Load all players on page load
 showCategory("all");
