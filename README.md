@@ -17,8 +17,4 @@ A modern, CSK-themed photo gallery showcasing the 2025 Chennai Super Kings squad
 
 ## 📸 Live Demo
 
-> [🔗 View Live Project](---
-
-## 📸 Live Demo
-
-> [🔗 View Live Project]([https://your-username.github.io/csk-player-gallery/](https://cskipl.netlify.app/))
+> [🔗 View Live Project]((https://cskipl.netlify.app/))
