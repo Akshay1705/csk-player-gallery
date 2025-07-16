@@ -12,3 +12,13 @@ A modern, CSK-themed photo gallery showcasing the 2025 Chennai Super Kings squad
 - 🎨 Animated hover effects and transitions
 - 📱 Fully responsive for all screen sizes
 - 🏆 5-Time IPL Champions trophy showcase
+
+---
+
+## 📸 Live Demo
+
+> [🔗 View Live Project](---
+
+## 📸 Live Demo
+
+> [🔗 View Live Project]([https://your-username.github.io/csk-player-gallery/](https://cskipl.netlify.app/))
